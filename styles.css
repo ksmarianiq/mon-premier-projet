@@ -1,0 +1,35 @@
+ul{
+ 
+ list-style-type: none;
+  margin: 0;
+  padding: 5px;
+  overflow: hidden;
+  background-color: rgb(241, 10, 10);
+}
+
+
+
+li a {
+  display: block;
+  color: rgba(255, 255, 255, 0.986);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #555511;
+}
+.eya{
+    display: block;
+  color: rgba(255, 255, 255, 0.986);
+  text-align: center;
+  float: left;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: -350px;
+  margin-top: 0px;
+}
+header{
+    background-color: #333;
+}
